@@ -1,0 +1,32 @@
+# Translation of Themes - Supplier in German
+# This file is distributed under the same license as the Themes - Supplier package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-02 08:46:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Themes - Supplier\n"
+
+#. Description of the theme
+msgid "Supplier Business WordPress theme ideal for a business (Transport, Logistic, Warehouse packers, movers, supplier etc.). You can also use for anything. It comes with all features these kind of shop page, blog page, homepage, slider, service, callout etc."
+msgstr "Das Supplier Business WordPress Theme ist ideal für Unternehmen aus den Bereichen Transport, Logistik, Verpackung, Speditionen, Lieferanten usw.. Du kannst es aber auch ganz anders verwenden. Es kommt mit allen Funktionen dieser Art von Shop-Seite, Blog-Seite, Homepage, Slider, Service, Callout etc."
+
+#. Theme Name of the theme
+msgid "Supplier"
+msgstr "Lieferant"
+
+#. Author URI of the theme
+msgid "https://themeansar.com"
+msgstr "https://themeansar.com"
+
+#. Author of the theme
+msgid "Themeansar"
+msgstr "Themeansar"
+
+#. Theme URI of the theme
+msgid "https://themeansar.com/free-themes/supplier/"
+msgstr "https://themeansar.com/free-themes/supplier/"

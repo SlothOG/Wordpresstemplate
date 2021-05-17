@@ -1,0 +1,679 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Transportex\n"
+"POT-Creation-Date: 2020-01-30 15:23+0530\n"
+"PO-Revision-Date: 2020-01-30 15:22+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+#: 404.php:27
+msgid "4"
+msgstr ""
+
+#: 404.php:28
+msgid "Oops! Page not found"
+msgstr ""
+
+#: 404.php:29
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:30
+msgid "Go Back"
+msgstr ""
+
+#: comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "One Comments &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:39 comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:42 comments.php:63
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr ""
+
+#: content.php:32 sections/home-blog.php:86 single.php:35
+msgid "by"
+msgstr ""
+
+#: content.php:48
+msgid "Pages:"
+msgstr ""
+
+#: footer.php:28
+#, php-format
+msgid "Theme by %1$s"
+msgstr ""
+
+#: functions.php:82
+msgid "Primary menu"
+msgstr ""
+
+#: functions.php:156
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:166
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:176
+msgid "Slider Widget Area"
+msgstr ""
+
+#: functions.php:184
+msgid "Service Widget Area"
+msgstr ""
+
+#: functions.php:207 inc/icy/customize/ta_customize_homepage.php:435
+#: inc/icy/customize/ta_customize_homepage.php:477 sections/home-callout.php:8
+#: sections/home-callout.php:11
+msgid "Read More"
+msgstr ""
+
+#: header.php:22 header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:48 header.php:203
+msgid "Toggle Navigation"
+msgstr ""
+
+#: header.php:81
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#: header.php:131 inc/icy/customize/transportex_customize_header.php:58
+msgid "Call Us:"
+msgstr ""
+
+#: header.php:151 inc/icy/customize/transportex_customize_header.php:105
+msgid "Email Us:"
+msgstr ""
+
+#: header.php:171
+msgid "Opening Time:"
+msgstr ""
+
+#: header.php:185
+msgid "Get a Quote"
+msgstr ""
+
+#: inc/icy/breadcrumb.php:25
+msgid "Archive by category"
+msgstr ""
+
+#: inc/icy/breadcrumb.php:28
+msgid "Search results for"
+msgstr ""
+
+#: inc/icy/breadcrumb.php:86
+msgid "Posts tagged"
+msgstr ""
+
+#: inc/icy/breadcrumb.php:91
+msgid "Articles posted by"
+msgstr ""
+
+#: inc/icy/breadcrumb.php:94
+msgid "Error 404"
+msgstr ""
+
+#: inc/icy/breadcrumb.php:99
+msgid "Page"
+msgstr ""
+
+#: inc/icy/customize-pro/class-customize.php:64
+msgid "Transportex Pro"
+msgstr ""
+
+#: inc/icy/customize-pro/class-customize.php:65
+msgid "Go Pro"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:6
+msgid "Frontpage Settings"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:16
+msgid "Slider Section"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:28
+#: inc/icy/customize/ta_customize_homepage.php:92
+#: inc/icy/customize/ta_customize_homepage.php:226
+#: inc/icy/customize/ta_customize_homepage.php:347
+#: inc/icy/customize/ta_customize_homepage.php:539
+msgid "Hide / Show Section"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:42
+#: inc/icy/customize/ta_customize_homepage.php:116
+#: inc/icy/customize/ta_customize_homepage.php:255
+#: inc/icy/customize/ta_customize_homepage.php:372
+#: inc/icy/customize/ta_customize_homepage.php:563
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:54
+msgid "<b><h3>How to add slider on the frontpage</b></h3>"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:55
+msgid ""
+"For Enable slider on Front page Go to widget setting <b>( Appreance -> "
+"Widgets )</b> and drag <b> Tx- Slider widget</b> in Slider section widget "
+"area then fill the slider required filed."
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:79
+msgid "Call To Action Section"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:105
+#: inc/icy/customize/ta_customize_homepage.php:239
+#: inc/icy/customize/ta_customize_homepage.php:361
+#: inc/icy/customize/ta_customize_homepage.php:552
+msgid "Background Image"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:128
+#: inc/icy/customize/ta_customize_homepage.php:270
+#: inc/icy/customize/ta_customize_homepage.php:383
+#: inc/icy/customize/ta_customize_homepage.php:574
+msgid "Text Color"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:136
+#: sections/home-calltoaction.php:28
+msgid "Make A Difference With <span>Expert Team</span>"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:142
+#: inc/icy/customize/ta_customize_homepage.php:284
+#: inc/icy/customize/ta_customize_homepage.php:413
+#: inc/icy/customize/ta_customize_homepage.php:602
+#: inc/icy/customize/transportex_customize_header.php:64
+#: inc/icy/customize/transportex_customize_header.php:111
+#: inc/icy/customize/transportex_customize_header.php:158
+#: inc/icy/widget/transportex-callout.php:91
+#: inc/icy/widget/transportex-calltoaction.php:91
+#: inc/icy/widget/transportex-service.php:103
+#: inc/icy/widget/transportex-slider.php:109
+msgid "Title"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:156
+#: inc/icy/customize/ta_customize_homepage.php:297
+#: inc/icy/customize/ta_customize_homepage.php:427
+#: inc/icy/customize/ta_customize_homepage.php:616
+#: inc/icy/customize/transportex_customize_header.php:77
+#: inc/icy/customize/transportex_customize_header.php:124
+#: inc/icy/customize/transportex_customize_header.php:171
+#: inc/icy/widget/transportex-callout.php:102
+#: inc/icy/widget/transportex-calltoaction.php:102
+#: inc/icy/widget/transportex-service.php:110
+#: inc/icy/widget/transportex-slider.php:116
+msgid "Description"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:164
+msgid "Lets Start"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:170
+#: inc/icy/customize/ta_customize_homepage.php:441
+#: inc/icy/customize/ta_customize_homepage.php:483
+#: inc/icy/customize/transportex_customize_header.php:192
+#: inc/icy/widget/transportex-callout.php:116
+#: inc/icy/widget/transportex-callout.php:144
+#: inc/icy/widget/transportex-calltoaction.php:116
+#: inc/icy/widget/transportex-calltoaction.php:144
+#: inc/icy/widget/transportex-service.php:138
+#: inc/icy/widget/transportex-slider.php:140
+msgid "Button Text"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:184
+#: inc/icy/customize/ta_customize_homepage.php:455
+#: inc/icy/customize/ta_customize_homepage.php:497
+#: inc/icy/customize/transportex_customize_header.php:205
+#: inc/icy/widget/transportex-callout.php:119
+#: inc/icy/widget/transportex-callout.php:147
+#: inc/icy/widget/transportex-calltoaction.php:119
+#: inc/icy/widget/transportex-calltoaction.php:147
+#: inc/icy/widget/transportex-service.php:141
+#: inc/icy/widget/transportex-slider.php:143
+msgid "Button Link"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:198
+#: inc/icy/customize/ta_customize_homepage.php:469
+#: inc/icy/customize/ta_customize_homepage.php:511
+#: inc/icy/customize/transportex_customize_copyright.php:34
+#: inc/icy/customize/transportex_customize_copyright.php:55
+#: inc/icy/customize/transportex_customize_copyright.php:77
+#: inc/icy/customize/transportex_customize_copyright.php:99
+#: inc/icy/customize/transportex_customize_header.php:218
+#: inc/icy/widget/transportex-callout.php:137
+#: inc/icy/widget/transportex-callout.php:165
+#: inc/icy/widget/transportex-calltoaction.php:137
+#: inc/icy/widget/transportex-calltoaction.php:165
+#: inc/icy/widget/transportex-service.php:159
+#: inc/icy/widget/transportex-slider.php:156
+msgid "Open link in a new tab"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:212
+msgid "Service Section"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:278
+msgid "Show off those skills, work & awesome <span>projects</span>"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:309
+msgid "<b><h3>How to add service on the frontpage</b></h3>"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:310
+msgid ""
+"For Enable service on Front page Go to widget setting <b>( Appreance -> "
+"Widgets )</b> and drag <b> Tx- Service widget</b> in Service section widget "
+"area then fill the service required filed."
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:334
+msgid "Callout Section"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:398
+msgid "Callout Text Align"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:407 sections/home-callout.php:28
+msgid "Reach Your Place Sure & Safe"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:421 sections/home-callout.php:35
+msgid ""
+"We take care with merchandise and deliver your order where you are on time."
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:524
+msgid "Latest News settings"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:588
+msgid "Hide post meta from News section"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:596
+#: inc/icy/widget/transportex-recent-news.php:64
+msgid "Latest News"
+msgstr ""
+
+#: inc/icy/customize/ta_customize_homepage.php:631
+msgid "Select Number of Post"
+msgstr ""
+
+#: inc/icy/customize/transportex_customize_copyright.php:7
+msgid "Footer Section"
+msgstr ""
+
+#: inc/icy/customize/transportex_customize_copyright.php:12
+msgid "Social Media"
+msgstr ""
+
+#: inc/icy/customize/transportex_customize_copyright.php:23
+msgid "Facebook"
+msgstr ""
+
+#: inc/icy/customize/transportex_customize_copyright.php:44
+msgid "Twitter"
+msgstr ""
+
+#: inc/icy/customize/transportex_customize_copyright.php:65
+msgid "Linkedin"
+msgstr ""
+
+#: inc/icy/customize/transportex_customize_copyright.php:87
+msgid "Google-plus"
+msgstr ""
+
+#: inc/icy/customize/transportex_customize_header.php:7
+msgid "Header Settings"
+msgstr ""
+
+#: inc/icy/customize/transportex_customize_header.php:19
+msgid "Info one"
+msgstr ""
+
+#: inc/icy/customize/transportex_customize_header.php:32
+msgid "Info two"
+msgstr ""
+
+#: inc/icy/customize/transportex_customize_header.php:38
+msgid "Header Widget One Setting"
+msgstr ""
+
+#: inc/icy/customize/transportex_customize_header.php:51
+#: inc/icy/customize/transportex_customize_header.php:98
+#: inc/icy/customize/transportex_customize_header.php:145
+msgid "Icon"
+msgstr ""
+
+#: inc/icy/customize/transportex_customize_header.php:85
+msgid "Header Widget Two Setting"
+msgstr ""
+
+#: inc/icy/customize/transportex_customize_header.php:132
+msgid "Header Widget Three Setting"
+msgstr ""
+
+#: inc/icy/customize/transportex_customize_header.php:179
+msgid "Header Widget Four Setting"
+msgstr ""
+
+#: inc/icy/customize/transportex_customize_header.php:186
+msgid "Get Quote"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:34
+#: inc/icy/themeinfo/themeinfo-detail.php:101
+msgid "About"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:53
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:57
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:79
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing Transportex \n"
+"For the best use of Transportex theme, visit the Wecome page %swelcome page"
+"%s."
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:81
+msgid "Get started with Transportex"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:116
+msgid "Theme Info"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:118
+msgid "View Demo"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:120
+msgid "View PRO version"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:122
+msgid "Rating this theme"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:130
+msgid "Supported Plugins"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:166
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:167
+msgid "Customize"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:171
+msgid "Home Page Section Widget"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:172
+msgid "Widgets"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:176
+#: inc/icy/themeinfo/themeinfo-detail.php:177
+msgid "Documentation"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:181
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:182
+msgid "Support Forum"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:186
+msgid "Upgrade to PRO version"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:187
+#: inc/icy/themeinfo/themeinfo-detail.php:192
+msgid "View Pro"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:191
+msgid "Need more features?"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:196
+msgid "Got sales related question?"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:197
+msgid "Contact Page"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:203
+#: inc/icy/themeinfo/themeinfo-detail.php:210
+msgid "Translate"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:224
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:224
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:227
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:227
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:242
+msgid "This theme recommends following plugins:"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:244
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:245
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:246
+msgid "Polylang"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:247
+#: inc/icy/themeinfo/themeinfo-detail.php:250
+msgid "Fully Compatible in Pro Version"
+msgstr ""
+
+#: inc/icy/themeinfo/themeinfo-detail.php:249
+msgid "WPML"
+msgstr ""
+
+#: inc/icy/transportex-custom-navwalker.php:193
+msgid "Add a menu"
+msgstr ""
+
+#: inc/icy/widget/transportex-callout.php:15
+msgid "Tx - Callout Widget"
+msgstr ""
+
+#: inc/icy/widget/transportex-calltoaction.php:15
+msgid "Tx - Call To Action Widget"
+msgstr ""
+
+#: inc/icy/widget/transportex-recent-news.php:14
+msgid "Tx - Recent News Widget"
+msgstr ""
+
+#: inc/icy/widget/transportex-recent-news.php:15
+msgid "Recent Blog Post"
+msgstr ""
+
+#: inc/icy/widget/transportex-recent-news.php:69
+msgid "Title:"
+msgstr ""
+
+#: inc/icy/widget/transportex-recent-news.php:73
+msgid "Number of pages to show:"
+msgstr ""
+
+#: inc/icy/widget/transportex-service.php:14
+msgid "Tx - Service Widget"
+msgstr ""
+
+#: inc/icy/widget/transportex-service.php:98
+msgid ""
+"Enter  Font Awesome icon class ( like: fa-cloud ). <a href=\"https://"
+"fontawesome.com/v4.7.0/icons/\" target=\"blank\" >Here all icon </a>"
+msgstr ""
+
+#: inc/icy/widget/transportex-service.php:116
+#: inc/icy/widget/transportex-slider.php:122
+msgid "Image"
+msgstr ""
+
+#: inc/icy/widget/transportex-service.php:122
+#: inc/icy/widget/transportex-service.php:129
+#: inc/icy/widget/transportex-slider.php:128
+#: inc/icy/widget/transportex-slider.php:135
+msgid "Upload Image"
+msgstr ""
+
+#: inc/icy/widget/transportex-service.php:133
+msgid "Hide Featured Image"
+msgstr ""
+
+#: inc/icy/widget/transportex-slider.php:17
+msgid "Tx - Slider Widget"
+msgstr ""
+
+#: search.php:37
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:41
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:43
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:3
+msgid "Type to search"
+msgstr ""
+
+#: searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: sections/home-blog.php:33
+msgid "Latest <span>News</span>"
+msgstr ""
+
+#: sections/home-services.php:26
+msgid "Our <span>Service</span> Says"
+msgstr ""
+
+#: single.php:50
+msgid "By"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Transportex"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themeansar.com/free-themes/transportex/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Transportex is a transport, logistics & home movers WordPress theme with "
+"focus on create online transport logistics, truck, trucking, shipment, "
+"fleet, flat mover, moving company, shipping, warehouse, delivery, freight "
+"services, corporate, showcase,Air Freight, Sea Freight, Road Freight, "
+"Logistics Works, tracking, carrier, transport logistics, delivery, Routes, "
+"Warehousing, overland network, responsive creative portfolio, package, "
+"storage, multipurpose business, Transportex offers grid pattern, three "
+"different tile / grid blog layouts, page transitions and distinctive "
+"typography. It also includes easy to use and fast page builder siteorigin. "
+"Cargo adapts to every device, from smartphones and tablets to desktops. It "
+"comes with free updates and free support by our highly acclaimed team. demo "
+"at https://themeansar.com/themes/transportex-pro/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themeansar"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeansar.com/"
+msgstr ""
